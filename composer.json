@@ -5,8 +5,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Arjay Angeles",
-            "email": "aqangeles@gmail.com"
+            "name": "[Arjay Angeles, mehany]",
+            "email": "[aqangeles@gmail.com]"
         }
     ],
     "require": {
@@ -19,7 +19,7 @@
         "league/fractal": "~0.12",
         "laravelcollective/html": "~5.0",
         "maatwebsite/excel": "^2.0",
-        "dompdf/dompdf": "^0.6.1"
+        "dompdf/dompdf": "^0.7.0"
     },
     "require-dev": {
         "mockery/mockery": "~0.9",
